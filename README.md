@@ -1,4 +1,4 @@
-# PortScan desenvolvido em Golang.
+# PortScan.
 
 ### Como Usar?
 ---
