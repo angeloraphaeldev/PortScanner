@@ -10,6 +10,8 @@
 3 - Depois execute o arquivo ./portScanner, ou o comando 'go run main.go' e aguarde seu resultado. :D
 
 ## Links Utilizados
+Curso Otávio Augusto - https://bit.ly/3tI2R5Z
+
 Desafio freeCodeCamp - https://bit.ly/3wEVYEn
 
 Aula do Kelvin Mai - https://bit.ly/3uu0JO7
